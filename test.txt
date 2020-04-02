@@ -4,3 +4,4 @@ newF
 master
 newF
 newF
+jestem na tescie
